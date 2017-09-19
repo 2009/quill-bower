@@ -1,0 +1,21 @@
+{
+  "name": "quill-bower",
+  "main": "quill.min.js",
+  "authors": [
+    "2009"
+  ],
+  "description": "Compliled version of quilljs",
+  "keywords": [
+    "quill",
+    "quilljs"
+  ],
+  "license": "BSD",
+  "homepage": "http://quilljs.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
